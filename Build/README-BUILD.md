@@ -157,8 +157,6 @@ script:
 - `v0.0.1` - para versões diretamente em produção
     - `./gradlew assembleProdRelease upload-to-play-store`
 
-**Os cenários acima não existem, pois a *nome_do_produto* ainda não tem um ambiente de homologação.**
-
 
 
 
